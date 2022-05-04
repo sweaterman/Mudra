@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459066912387",
+    "project_id": "chattingbot-86c46",
+    "storage_bucket": "chattingbot-86c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459066912387:android:ed95257398e7d9ca9ab5b6",
+        "android_client_info": {
+          "package_name": "com.cookandroid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459066912387-ca4gt9vjpjqlgmikbdumd5jhjqac2uru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuPqEE0K3nq2e5vwN_-46Z0vvfk7kPgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459066912387-ca4gt9vjpjqlgmikbdumd5jhjqac2uru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
